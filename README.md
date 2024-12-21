@@ -77,7 +77,6 @@ You can watch the demo video of our projects in following link
 
 
 ![Demo Video](https://github.com/MythflashX/Nexloft-IoT-x-Automated-Smart-Home-/blob/main/resources/video_2024-12-21_21-27-21.mp4)
-![Demo Video2](
 
 
 
