@@ -65,11 +65,19 @@ This project was developed twice—once as a 2nd-year academic project and later
 ## VISUAL REPRESENTATION
 ![PCB Design](https://github.com/MythflashX/Nexloft-IoT-x-Automated-Smart-Home-/blob/main/resources/20240701_154245.jpg?raw=true)
 
-
 ![Final Product](https://github.com/MythflashX/Nexloft-IoT-x-Automated-Smart-Home-/blob/main/resources/photo_2_2024-12-21_21-22-09.jpg?raw=true)
+
+![Software1](https://github.com/MythflashX/Nexloft-IoT-x-Automated-Smart-Home-/blob/main/resources/photo_1_2024-12-21_21-42-02.jpg?raw=true)
+
+![Software2](https://github.com/MythflashX/Nexloft-IoT-x-Automated-Smart-Home-/blob/main/resources/photo_2_2024-12-21_21-42-02.jpg?raw=true)
+
+
+You can watch the demo video of our projects in following link
+![Demo Template](https://github.com/MythflashX/Nexloft-IoT-x-Automated-Smart-Home-/blob/main/resources/photo_3_2024-12-21_21-42-02.jpg?raw=true)
 
 
 ![Demo Video](https://github.com/MythflashX/Nexloft-IoT-x-Automated-Smart-Home-/blob/main/resources/video_2024-12-21_21-27-21.mp4)
+![Demo Video2](
 
 
 
