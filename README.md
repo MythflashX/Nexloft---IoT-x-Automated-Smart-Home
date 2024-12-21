@@ -56,6 +56,10 @@ Arduino IoT |  Blynk apps [ You can directly control and monitor via web apps to
   
   [https://dev.to/mytx/blueprint1-arduino-cloud-x-blynk-cloud-integration-347]
 
+- Read the full documentation here
+  
+ [https://github.com/MythflashX/Nexloft-IoT-x-Automated-Smart-Home-/blob/main/resources/Smart%20Home.pdf]
+
 ## Acknowledgements
 This project is a collaborative effort, and while I contributed approximately 90% of the codebase, the success of the smart home system is due to the hard work and dedication of the team. Their contributions in hardware installations, house architecture design, and testing were invaluable to the project's overall development. I appreciate their support and collaboration throughout this journey.
 
