@@ -27,15 +27,15 @@ This project aims to share insights and methodologies for creating a smart home 
 
 ## REQUIREMENTS
 
-### Hardwares
-Microcontrollers:  Arduino Uno, Esp32
+### Hardwares ⚙️
+Microcontrollers :    Arduino Uno, Esp32
 
-Sensors:  Flame Sensor, MQ2 Smoke Sensor, Ultrasonic Sensor, PIR Motion Sensor (Passive Infrared Sensor),
-          LDR sensor Module, DHT11 Temperature & Humidity Sensor
+Sensors :    Flame Sensor, MQ2 Smoke Sensor, Ultrasonic Sensor, PIR Motion Sensor (Passive Infrared Sensor),
+             LDR sensor Module, DHT11 Temperature & Humidity Sensor
           
-Actuators: Buzzer Module, L293D Motor Driver Module, 5V DC Pump Motor, LEDs
+Actuators :   Buzzer Module, L293D Motor Driver Module, 5V DC Pump Motor, LEDs, Servo Motor
 
-### Softwares
+### Softwares 💾
 Arduino IDE
 
 Blynk Libraries
@@ -43,6 +43,21 @@ Blynk Libraries
 Arduino IoT Cloud Library
 
 Arduino IoT |  Blynk apps [ You can directly control and monitor via web apps too ]
+
+## SETUP INSTRUCTIONS
+
+- Clone the repository
+
+- Install required Library
+
+- Compile and Upload Each Codes to corresponding microcontrollers
+
+  You can check out the following walkthrough to how to quickly setup Arduino IoT Cloud and Blynk Cloud services on a single Esp32 Microcontroller
+  
+  [https://dev.to/mytx/blueprint1-arduino-cloud-x-blynk-cloud-integration-347]
+
+## Acknowledgements
+This project is a collaborative effort, and while I contributed approximately 90% of the codebase, the success of the smart home system is due to the hard work and dedication of the team. Their contributions in hardware installations, house architecture design, and testing were invaluable to the project's overall development. I appreciate their support and collaboration throughout this journey.
 
 
 
