@@ -5,7 +5,7 @@ Smart Home Automation with Arduino and ESP32
 
 This project presents a comprehensive smart home system that integrates Arduino Uno and ESP32 microcontrollers to enhance safety, convenience, and energy efficiency.
 
-## The Arduino Uno is responsible for critical functions such as:
+## Arduino Uno Features:
 -Automated Water Tank Refill: Prevents overflow and ensures efficient water management.
 
 -Fire and Smoke Detection: Activates an alarm system in case of fire hazards to ensure household safety.
@@ -15,7 +15,7 @@ This project presents a comprehensive smart home system that integrates Arduino 
 -Smart Lighting: Controls light-dependent evening lights around the house, along with a motion-sensor light for the bathroom, maximizing energy 
  efficiency.
  
-## The ESP32 manages the majority of the home's lighting, offering:
+## ESP32 Features:
 
 -Remote Control: Allows for seamless operation of lights from anywhere in the world via a mobile app.
 
