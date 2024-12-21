@@ -59,6 +59,19 @@ Arduino IoT |  Blynk apps [ You can directly control and monitor via web apps to
 ## Acknowledgements
 This project is a collaborative effort, and while I contributed approximately 90% of the codebase, the success of the smart home system is due to the hard work and dedication of the team. Their contributions in hardware installations, house architecture design, and testing were invaluable to the project's overall development. I appreciate their support and collaboration throughout this journey.
 
+### Final Note:
+This project was developed twice—once as a 2nd-year academic project and later as an improved version for a science fair. The pictures and testing video are from the first iteration, while the PCB design image is from the second iteration. The core functionality remains consistent, with enhancements made in the second version.
+
+## VISUAL REPRESENTATION
+![PCB Design](https://github.com/MythflashX/Nexloft-IoT-x-Automated-Smart-Home-/blob/main/resources/20240701_154245.jpg?raw=true)
+
+
+![Final Product](https://github.com/MythflashX/Nexloft-IoT-x-Automated-Smart-Home-/blob/main/resources/photo_2_2024-12-21_21-22-09.jpg?raw=true)
+
+
+![Demo Video](https://github.com/MythflashX/Nexloft-IoT-x-Automated-Smart-Home-/blob/main/resources/video_2024-12-21_21-27-21.mp4)
+
+
 
 
 
