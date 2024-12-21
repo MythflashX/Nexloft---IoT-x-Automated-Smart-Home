@@ -25,5 +25,25 @@ The system utilizes a serial connection between the ESP32 and Arduino Uno, enabl
 
 This project aims to share insights and methodologies for creating a smart home system, making it accessible for others interested in exploring similar IoT applications.
 
+## REQUIREMENTS
+
+### Hardwares
+Microcontrollers:  Arduino Uno, Esp32
+
+Sensors:  Flame Sensor, MQ2 Smoke Sensor, Ultrasonic Sensor, PIR Motion Sensor (Passive Infrared Sensor),
+          LDR sensor Module, DHT11 Temperature & Humidity Sensor
+          
+Actuators: Buzzer Module, L293D Motor Driver Module, 5V DC Pump Motor, LEDs
+
+### Softwares
+Arduino IDE
+
+Blynk Libraries
+
+Arduino IoT Cloud Library
+
+Arduino IoT |  Blynk apps [ You can directly control and monitor via web apps too ]
+
+
 
 
