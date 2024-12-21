@@ -42,6 +42,8 @@ Blynk Libraries
 
 Arduino IoT Cloud Library
 
+Various Sensors and Acuators libraries
+
 Arduino IoT |  Blynk apps [ You can directly control and monitor via web apps too ]
 
 ## SETUP INSTRUCTIONS
